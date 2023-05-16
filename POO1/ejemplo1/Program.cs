@@ -26,6 +26,14 @@ namespace ejemplo1
             b1.Capacidad = 200;
 
             Console.WriteLine(b1.Capacidad);
+
+            Perro perro1 = new Perro();
+            perro1.nombre = "Benja";
+            perro1.color = "Blanco";
+            perro1.origen = "Espana";
+
+            Console.WriteLine(perro1.nombre + " " + perro1.color + " " + perro1.origen);
+            
             Console.ReadKey();
         }
     }

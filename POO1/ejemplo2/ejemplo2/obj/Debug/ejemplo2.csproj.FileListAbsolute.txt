@@ -1,0 +1,7 @@
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\obj\Debug\ejemplo2.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\obj\Debug\ejemplo2.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\bin\Debug\ejemplo2.exe.config
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\bin\Debug\ejemplo2.exe
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\bin\Debug\ejemplo2.pdb
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\obj\Debug\ejemplo2.exe
+D:\Programacion\unDEVtaker\MaxiProgramaLv2\POO1\ejemplo2\ejemplo2\obj\Debug\ejemplo2.pdb
