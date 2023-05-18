@@ -14,7 +14,10 @@ namespace ejemplo1
         private int Edad { get; set; }
         private float Sueldo { get; set; }
         private string Nombre { get; set; }
-
+        public Persona(string nom)
+        {
+            this.Nombre = nom;
+        }
         public void setEdad(int e)
         {
             Edad = e;
@@ -24,7 +27,10 @@ namespace ejemplo1
             return Edad;
         }
 
-        //public y private
-
+        //metodos
+        public string saludar()
+        {
+            return "Holas soy " + Nombre;
+        }
     }
 }
